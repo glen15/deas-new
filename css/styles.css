@@ -6,6 +6,7 @@
 @import "index.css";
 @import "notice.css";
 @import "result.css";
+@import "members.css";
 /** COMPONENTS **/
 @import "components/header.css";
 @import "components/navigation.css";
