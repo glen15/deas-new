@@ -19,12 +19,12 @@
     margin-bottom: 100px;
 }
 .notice__title {
-    font-size: 30px;
+    font-size: 15px;
     font-weight: 600;
 }
 .notice__subtitle {
     color: rgba(0, 0, 0, 0.4);
-    font-size: 20px;
+    font-size: 10px;
     font-weight: 600;
     margin-left: 30px;
 }
@@ -34,7 +34,7 @@
     justify-content: space-between;
     align-items: center;
     margin: 20px;    
-    font-size: 25px;
+    font-size: 12px;
     font-weight: 600;
     border-radius: 10px;
     padding: 20px;
