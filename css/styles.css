@@ -5,10 +5,11 @@
 /** SCREENS **/
 @import "index.css";
 @import "notice.css";
-
+@import "result.css";
 /** COMPONENTS **/
 @import "components/header.css";
 @import "components/navigation.css";
+@import "components/profile.css";
 
 
 body {
