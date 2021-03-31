@@ -9,6 +9,6 @@
     margin: 20px;
 }
 
-.header div:first-child {
-    font-size: 40px;
+.header div {
+    font-size: 20px;
 }

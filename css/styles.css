@@ -36,10 +36,11 @@ body {
 }
 
 .welcome-header__title {
-  font-size: 40px;
+  font-size: 20px;
   margin-bottom: 40px;
 }
 
 .welcome-header__text {
   color: rgba( 0, 0, 0, 0.5);
+  font-size: 12px;
 }
